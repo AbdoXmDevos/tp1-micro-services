@@ -1,4 +1,4 @@
-# Activité Pratique N°1 - Développement d'un micro-service
+# Microservice for Bank Account and Customer Management
 
 ## Description
 Ce projet est un microservice de gestion de comptes bancaires et de clients, développé avec Spring Boot. Il inclut des fonctionnalités pour créer, mettre à jour, supprimer et consulter des comptes bancaires et des clients via des API REST et GraphQL.
