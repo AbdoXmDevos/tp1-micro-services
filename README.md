@@ -152,8 +152,8 @@ Ce projet est un microservice de gestion de comptes bancaires et de clients, dé
 - `src/main/java/ma/enset/devmicroservicetp1/web/`: Contient les contrôleurs REST et GraphQL.
 - `src/main/resources/graphql/schema.graphqls`: Définition du schéma GraphQL.
 
-## Auteur
-Lee4real
+## Created by
+#### Abdessamad Karimi - AKA AbdoXm (AbdoXmDevos)
 
 ## Licence
 Ce projet est sous licence MIT.
